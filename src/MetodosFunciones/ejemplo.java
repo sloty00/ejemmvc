@@ -3,9 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package ejemmvc;
-import ejemmvc.Animal; //Importamos la clase Animal para poder usarla
-import ejemmvc.NewJFrame;
+package MetodosFunciones;
+import MetodosFunciones.Animal; //Importamos la clase Animal para poder usarla
+import MetodosFunciones.NewJFrame;
 import java.awt.Frame;
 /**
  *
